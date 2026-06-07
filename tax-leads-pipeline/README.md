@@ -142,6 +142,6 @@ python 2_tax_leads_enricher.py
 
 ## 📬 Contact
 
-**Muhammad Mudasir Ahmad**  
+**Mudasir Ahmad**  
 📧 me.mudasirr@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-mudasir-ahmad/)
