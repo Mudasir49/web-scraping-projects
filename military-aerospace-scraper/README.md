@@ -60,6 +60,6 @@ python military_aerospace_scraper.py
 
 ## 📬 Contact
 
-**Muhammad Mudasir Ahmad**
+**Mudasir Ahmad**
 📧 me.mudasirr@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-mudasir-ahmad/)
